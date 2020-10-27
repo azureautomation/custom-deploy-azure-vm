@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 38000,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/custom-deploy-azure-vm/master/ARMDeploy.ps1",
+    "DownloadCount": 982,
+    "Id": "Custom-Deploy-Azure-VM-49445be7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 241,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-9-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script provides you with a Graphical interface to easily redeploy VM from existing vhd\u2019s or managed disk. It also allows you to easily deploy a VM from a customized image which is currently not available in the Azure Portal GUI.When deploying from a custom image, only managed",
+    "Title": "Custom Deploy Azure VM",
+    "UpdatedDate": "2019-6-11T00:00:00",
+    "Url": "https://github.com/azureautomation/custom-deploy-azure-vm",
+    "UserTags": "Azure, azure vm, Custom Image"
+}
